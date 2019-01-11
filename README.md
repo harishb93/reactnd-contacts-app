@@ -4,7 +4,7 @@ This repo is a code-along with the first project in the [React Nanodegree progra
 
 This project is a simple React application to add, view and remove contacts. The point of this project is to understand the React fundamentals and implement its concepts.
 
-To run this project, you will have to setup and run the backend server for the Contacts app. This server is primarily an API that will interact with the server for storage and retrieval of data.
+To run this project, you will have to setup and run the backend server for the Contacts app. This server is primarily an API that will interact with the server for storage and retrieval of data. The API is written and managed by Udacity.
 
 ## Backend Server setup
 
@@ -22,6 +22,6 @@ Getting the server running on your local machine takes only a few steps:
 
 ## Contributing
 
-Because this is a code-along project and the commits correspond to specific videos in the program, we will not be accepting pull requests.
+Because this is a code-along project and the commits correspond to specific videos in the program, pull requests will not be accepted.
 
-If you feel like there's a major problem, please open an issue to discuss the problem and potential resolution.
+If you feel like there's a major problem, please open an issue to discuss the problem and potential resolution. 
